@@ -1,6 +1,6 @@
 # 🧠 Text Generator using Markov Chains
 
-![image[(https://github.com/bhautik2005/PRODIGY_GA_03/blob/eae7b437d91bb059387dc25c9ad24cee50996e20/Screenshot%202025-07-12%20175926.png)
+![image](https://github.com/bhautik2005/PRODIGY_GA_03/blob/eae7b437d91bb059387dc25c9ad24cee50996e20/Screenshot%202025-07-12%20175926.png)
 
 ## 📌 Description
 
